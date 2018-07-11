@@ -1,11 +1,13 @@
 Bangabandhu Linux
 =================
 
-Bangabandhu Linux kernel source tree. This Linux will be develop according to run all activity related with Digital Bangladesh in action 
+Bangabandhu Linux kernel source tree. This Linux will be develop according to run 
+all activity related with Digital Bangladesh in action. 
 
-Bangabandhu Linux will be unique and help Bangladesh Government Modernization regarding Digital Bangladesh. 
-Bangabandhu Linux can also be used as Bangladesh Official system OS too. This system OS can monitor and integrate all others app that 
-used to manage Bangladesh government digital activity.
+Bangabandhu Linux will be unique and help Bangladesh Government Modernization regarding hack proof Digital Bangladesh. 
+
+Bangabandhu Linux can also be used as Bangladesh Official system OS too. 
+This system OS can monitor and integrate all others app that used to manage Bangladesh government digital activity.
 
 In order to build the documentation, use ``make htmldocs`` or
 ``make pdfdocs``.  
