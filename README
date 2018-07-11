@@ -10,10 +10,4 @@ Bangabandhu Linux can also be used as Bangladesh Official system OS too.
 
 This system OS can monitor and integrate all others app that used to manage Bangladesh government digital activity.
 
-https://launchpad.net/bangabandhu
-
-Please read the Documentation/process/changes.rst file, as it contains the
-requirements for building and running the kernel, and information about
-the problems which may result by upgrading your kernel.
-
-
+Started Development: https://launchpad.net/bangabandhu
